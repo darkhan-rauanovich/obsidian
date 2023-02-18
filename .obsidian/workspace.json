@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unread/Event loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac4614827d2a0997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unread/Event loop.md",
+                "file": "Reading/Event loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unread/Event loop.md",
+                "file": "Reading/Event loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unread/Event loop.md",
+                "file": "Reading/Event loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unread/Event loop.md"
+                "file": "Reading/Event loop.md"
               }
             }
           }
@@ -186,12 +173,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cefc024eac59c58a",
+  "active": "1d561bd23ced96d9",
   "lastOpenFiles": [
     "Reading/Заметка о requestAnimationFrame и requestIdleCallback.md",
     "Unread/CURL.md",
     "Readed/WEB/Browser/Inside modern browser.md",
-    "Unread/Event loop.md",
+    "Reading/Event loop.md",
     "Readed/WEB/Fronted/JavaScript/Optimize JavaScript execution.md",
     "Readed/WEB/Fronted/JavaScript/Using requestIdleCallback.md",
     "Unread/DNS.md",

@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "a1d4411d25bc56b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9755652b0890577e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926f13b758e58a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readed/WEB/Browser/Inside modern browser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cefc024eac59c58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unread/Event loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac4614827d2a0997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unread/Event loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a89e56102e2ab5d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e085bc17642f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d561bd23ced96d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0488e44b55fd13d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Event loop",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a6153e08e3c5de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readed/WEB/Fronted/JavaScript/Using requestIdleCallback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dd3ce6044567b7a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3742404a2f5cabec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fdabf4cfeb7a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86cff64a9373ce8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unread/Event loop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "355edfd063d9531d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unread/Event loop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d2dee2b623b2918",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb0a848034d077b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unread/Event loop.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "cefc024eac59c58a",
+  "lastOpenFiles": [
+    "Reading/Заметка о requestAnimationFrame и requestIdleCallback.md",
+    "Unread/CURL.md",
+    "Readed/WEB/Browser/Inside modern browser.md",
+    "Unread/Event loop.md",
+    "Readed/WEB/Fronted/JavaScript/Optimize JavaScript execution.md",
+    "Readed/WEB/Fronted/JavaScript/Using requestIdleCallback.md",
+    "Unread/DNS.md",
+    "Unread/TLS Connection.md",
+    "Unread/Lighthouse.md",
+    "Unread/V8.md"
+  ]
+}

@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Event loop.md",
+                "file": "Readed/WEB/Browser/Inside modern browser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4750089c6711a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Pythagorean theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Event loop.md",
+                "file": "Reading/Pythagorean theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Event loop.md",
+                "file": "Reading/Pythagorean theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Event loop.md"
+                "file": "Reading/Pythagorean theorem.md"
               }
             }
           }
@@ -173,17 +185,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d561bd23ced96d9",
+  "active": "a4750089c6711a8e",
   "lastOpenFiles": [
+    "Readed/WEB/Browser/Inside modern browser.md",
+    "Readed/WEB/Browser/Rendering Performance.md",
+    "Reading/Event loop.md",
     "Reading/Заметка о requestAnimationFrame и requestIdleCallback.md",
     "Unread/CURL.md",
-    "Readed/WEB/Browser/Inside modern browser.md",
-    "Reading/Event loop.md",
     "Readed/WEB/Fronted/JavaScript/Optimize JavaScript execution.md",
     "Readed/WEB/Fronted/JavaScript/Using requestIdleCallback.md",
     "Unread/DNS.md",
     "Unread/TLS Connection.md",
-    "Unread/Lighthouse.md",
-    "Unread/V8.md"
+    "Unread/Lighthouse.md"
   ]
 }
